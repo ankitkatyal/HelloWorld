@@ -4,5 +4,5 @@ My First Repository
 Start of journey at GitHub!!
 
 I am a Java Developer.
-And would love to meet new people.
+And  love meeting new people.
 
